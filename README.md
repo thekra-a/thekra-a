@@ -16,4 +16,4 @@ I'm interested in research & data analytics, and I enjoy turning questions into 
 
 > #### Contribution
 
-Attribution helps others discover projects and supports open collaboration. If you find my work useful or interesting, you're very welcome to fork the repository and adapt for your own learning, with a credit back to the original repo. Thanks!
+Attribution helps others discover projects and supports open collaboration. If you find my work useful or interesting, you're very welcome to fork the repository and adapt with a credit to the original repo. Thanks!
