@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**thekra-a/thekra-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe the best analysis doesn't just present numbers. It tells a story. 
 
-Here are some ideas to get you started:
+I'm interested in research & data analytics, and I enjoy turning questions into projects that combine data, code and storytelling. This corder of GitHub is where I document the questions and stories I'm curious about. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+> **Tech stack & skills**:
+
+- R, Python, Git
+- Research & literature review
+- Data scraping & wrangling
+- Exploratory data analysis (EDA)
+- Documentation
+- Storytelling
+
+> #### Contribution
+
+Attribution helps others discover projects and supports open collaboration. If you find my work useful or interesting, you're very welcome to fork the repository and adapt for your own learning, with a credit back to the original repo. Thanks!
