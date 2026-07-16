@@ -2,7 +2,7 @@
 
 I believe the best analysis doesn't just present numbers. It tells a story. 
 
-I'm interested in research & data analytics, and I enjoy turning questions into projects that combine data, code and storytelling. This corder of GitHub is where I document the questions and stories I'm curious about. 
+I'm interested in research & data analytics, and I enjoy turning questions into projects that combine data, code and storytelling. This corner of GitHub is where I document the questions and stories I'm curious about. 
 
  
 > **Tech stack & skills**:
