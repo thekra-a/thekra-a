@@ -7,7 +7,7 @@ I'm interested in research & data analytics, and I enjoy turning questions into 
  
 > **Tech stack & skills**:
 
-- R, Python, Git
+- R, Python, Git, Microsoft Power BI
 - Research & literature review
 - Data scraping & wrangling
 - Exploratory data analysis (EDA)
